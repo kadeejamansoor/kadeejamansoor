@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kadeeja-mansoor-b0b675259/](https://www.linkedin.com/in/kadeeja-mansoor-b0b675259/)
 
-- ⚡ Fun fact **cool and hot🔥**
+- ⚡ Fun fact **cool and hot🔥**(https://github.com/kadeejamansoor)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
