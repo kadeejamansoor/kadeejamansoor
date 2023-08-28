@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohomad Mansoor Fathima Kadeeja</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=6DFF92&width=442&lines=A+passionate+frontend+developer+from+Sri+Lanka" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadeejamansoor&label=Profile%20views&color=0e75b6&style=flat" alt="kadeejamansoor" /> </p>
 
